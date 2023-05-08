@@ -6,4 +6,4 @@ Este projeto foi feito na Semana da Programação utilizando/I made this project
 <br>
 . JAVASCRIPT/REACT
 <br>
-E foi um dos meus primeiros projetos em Front End/And Was one of my first project's in Front End
+E foi um dos meus primeiros projetos em Front End/And was one of my first project's in Front End
